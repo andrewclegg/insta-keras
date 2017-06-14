@@ -2,6 +2,8 @@
 
 Keras demos and experiments using Instacart data.
 
+I'mm learning Keras and TensorFlow, with a focus on recommendation-related problems, and created this repo to store my experiments along the way.
+
 ## Experiment 1
 
 See the `experiment1` subdirectory.
@@ -21,3 +23,7 @@ Note that you need to download the CSVs yourself, as they're a bit too big to st
 ### 2-ModelTraining.ipynb
 
 This reads in the HDF5 files created by the previous notebook, and trains a Keras model. See the instructions and notes in the notebook for more detail.
+
+## Experiment2 ... ExperimentN
+
+Watch this space!
