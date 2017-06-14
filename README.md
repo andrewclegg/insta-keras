@@ -2,7 +2,7 @@
 
 Keras demos and experiments using Instacart data.
 
-I'mm learning Keras and TensorFlow, with a focus on recommendation-related problems, and created this repo to store my experiments along the way.
+I'm learning Keras and TensorFlow, with a focus on recommendation-related problems, and created this repo to store my experiments along the way.
 
 ## Experiment 1
 
