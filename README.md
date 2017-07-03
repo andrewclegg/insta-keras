@@ -6,7 +6,7 @@ I'm learning Keras and TensorFlow, with a focus on recommendation-related proble
 
 ## Order size prediction
 
-See the `order_size_prediction` subdirectory.
+See the [order_size_prediction](order_size_prediction) subdirectory.
 
 This is a really simplified toy example for my [Applied AI talk](https://www.meetup.com/AppliedAI/events/241111330/).
 
